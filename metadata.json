@@ -1,0 +1,6 @@
+{
+  "name": "Aura Luxury Estates - Property Inquiry",
+  "description": "Property-specific inquiry and lead capture portal for luxury real estate with CRM lead synchronization and instant agent dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
